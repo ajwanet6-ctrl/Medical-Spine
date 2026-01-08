@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://celadon-ganache-42c268.netlify.app/sitemap.xml
